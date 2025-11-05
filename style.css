@@ -1,0 +1,28 @@
+html {
+    background-color:azure;
+}
+body {
+    margin: 0;
+}
+a {
+    color: rgb(255, 179, 179);
+    text-decoration: none;
+}
+a:link {
+    color:pink;
+}
+a:visited {
+    color:red;
+}
+a:focus {
+    color:rgb(145, 0, 207);
+    outline: 3px dashed rebeccapurple;
+}
+a:hover {
+    color: rgb(198, 7, 45);
+    text-decoration: underline;
+}
+a:active {
+    color:rgb(147, 255, 219);
+}
+

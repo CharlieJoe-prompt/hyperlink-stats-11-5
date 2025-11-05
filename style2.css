@@ -1,0 +1,15 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    transition: all 500ms;
+
+}
+
+.box:hover {
+    background-color: crimson;
+    cursor:crosshair;
+    width: 200px;
+    height: 100px;
+    filter: grayscale(100%);
+}
