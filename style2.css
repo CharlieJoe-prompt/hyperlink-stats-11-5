@@ -11,5 +11,5 @@
     cursor:crosshair;
     width: 200px;
     height: 100px;
-    filter: grayscale(100%);
+    filter: grayscale(10%);
 }
